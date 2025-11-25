@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "shape.h": "c",
+        "image.h": "c",
+        "engine.h": "c",
+        "conio.h": "c",
+        "stdlib.h": "c",
+        "dos.h": "c",
+        "sprite.h": "c",
+        "ecs.h": "c",
+        "string.h": "c",
+        "keycode.h": "c",
+        "keyboard.h": "c",
+        "stdimglib.h": "c",
+        "stdio.h": "c",
+        "malloc.h": "c",
+        "timer.h": "c",
+        "mouse.h": "c",
+        "mouse_follow_system.h": "c",
+        "render_system.h": "c",
+        "transform.h": "c",
+        "ecs_config.h": "c",
+        "transform2d.h": "c",
+        "camera.h": "c",
+        "camera2d.h": "c",
+        "mixer.h": "c",
+        "scene.h": "c",
+        "lpck.h": "c",
+        "rigidbody2d.h": "c",
+        "renderer.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
